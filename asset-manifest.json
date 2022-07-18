@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.fb3797ce.js",
-    "index.html": "/index.html",
-    "main.fb3797ce.js.map": "/static/js/main.fb3797ce.js.map"
+    "main.css": "/dheerajhemachandran/static/css/main.31d6cfe0.css",
+    "main.js": "/dheerajhemachandran/static/js/main.fb3797ce.js",
+    "index.html": "/dheerajhemachandran/index.html",
+    "main.fb3797ce.js.map": "/dheerajhemachandran/static/js/main.fb3797ce.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",

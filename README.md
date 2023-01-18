@@ -1,7 +1,7 @@
- Wassup!!! 
-  I'am Dheeraj <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" width="40">
-  A passionate Software Developer from India
-  I like making websites,games and AI
+ <h3>Wassup!!!<h3/> 
+   <h3>I'am Dheeraj <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" width="40"><h3/>
+   <h3>A passionate Software Developer from India<h3/>
+   <h3>I like making websites,games and AI<h3/>
 
 ## About Me
 

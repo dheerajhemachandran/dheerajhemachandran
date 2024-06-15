@@ -1,6 +1,6 @@
-<h1 align="center">Ahoy, matey! Welcome aboard! Dheeraj here 🚢</h1>
+<h1 align="center">Ahoy, matey! Dheeraj here 🚢</h1>
 <h3 align="center">A passionate Software developer 👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="400" src="https://j.gifs.com/KdnqJW.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajhemachandran&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajhemachandran" /> </p>
 
